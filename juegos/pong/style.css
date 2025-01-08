@@ -1,0 +1,7 @@
+body {
+	text-align: center;
+	display: flex;
+    justify-content: center; /* Alinea horizontalmente */
+    align-items: center; /* Alinea verticalmente */
+    height: 100vh; /* Asegura que el contenedor ocupe el 100% de la altura de la ventana */
+}
